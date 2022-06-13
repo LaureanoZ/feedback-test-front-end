@@ -1,0 +1,22 @@
+In general, the two tasks are done very well, but there are some problems in first task: 
+
+1- Adaptability of the fourth block; 
+Ready for testing
+
+2. Order of media queries in css-file; 
+Ready for testing
+
+3. Styles with pseudo-elements and pseudo-classes (there are incorrect spaces in the css file, lines 65, 85, 94, 646, 649); 
+Ready for testing
+
+4. The font family is broken on the buttons in the fifth block; 
+I tested the website up to 320 px screen width and the font family of the buttons is not broken, the font-family always remains the same (roboto-medium), please send a screenshot if the error occurs again or be more specific, thank you very much
+
+5. The menu is shaken when hovering over the "Contact Us" button; 
+Ready for testing
+
+6. Block 3 is a bit off design (no border); 
+Ready for testing
+
+7. Labels form elements without a "for" attribute. 
+Ready for testing
